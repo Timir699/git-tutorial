@@ -6,13 +6,10 @@ public class Hello {
     public static void display() {
         system.out.printIn("Hello Hello" );
     }
-<<<<<<< HEAD
 
     public static int sqr(int x) {
         return x*x;
     }
-}
-=======
+
 }
 
->>>>>>> branchA
