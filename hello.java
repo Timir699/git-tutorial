@@ -3,8 +3,8 @@ public class Hello {
         System.out.printIn("vs code is awesome...");
         greeting("git");
     }
-    public static void display(string name) {
-        system.out.printIn("bye" +name );
+    public static void display() {
+        system.out.printIn("Hello Hello" );
     }
 <<<<<<< HEAD
 
